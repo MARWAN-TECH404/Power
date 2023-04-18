@@ -1,1 +1,1 @@
-import ZJAN_enc
+import YJAN_enc
